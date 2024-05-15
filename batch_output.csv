@@ -1,0 +1,11 @@
+Class,Age,Menopause,Tumor-size,Inv-nodes,Node-caps,Deg-malig,Breast,Breast-quad,Irradiat,Irradiat_probability
+no-recurrence-events,30-39,premeno,25-29,6-8,yes,2,right,left_up,1,0.625
+no-recurrence-events,50-59,premeno,25-29,,yes,2,left,left_up,1,0.86
+no-recurrence-events,40-49,premeno,35-39,9-11,yes,2,right,left_up,1,0.58
+no-recurrence-events,40-49,premeno,35-39,9-11,yes,2,right,right_up,0,0.26
+no-recurrence-events,40-49,premeno,40-44,3-5,yes,3,right,left_up,1,0.61
+no-recurrence-events,40-49,premeno,30-34,6-8,no,2,left,left_up,1,0.6816666666666665
+no-recurrence-events,50-59,ge40,40-44,0-2,no,3,left,right_up,0,0.03
+no-recurrence-events,60-69,ge40,30-34,,no,2,left,left_low,0,0.48
+no-recurrence-events,30-39,premeno,20-24,3-5,no,2,right,central,0,0.29
+no-recurrence-events,30-39,premeno,40-44,3-5,no,3,right,right_up,0,0.36
